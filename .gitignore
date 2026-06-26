@@ -1,0 +1,34 @@
+# ---- Unity (arquivos gerados — NÃO sobem) ----
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Ll]ogs/
+[Mm]emoryCaptures/
+[Uu]serSettings/
+.vs/
+.idea/
+.gradle/
+ExportedObj/
+*.csproj
+*.sln
+*.user
+*.unityproj
+*.booproj
+*.svd
+*.pidb
+*.suo
+*.apk
+*.aab
+*.unitypackage
+
+# OS
+*.DS_Store
+Thumbs.db
+
+# Config de editor do StaticEcs (gerado)
+src/StaticTopDownShooter/Assets/_Project/Resources/Editor/StaticEcsViewConfig.asset
+src/StaticTopDownShooter/Assets/_Project/Resources/Editor/StaticEcsViewConfig.asset.meta
+src/StaticTopDownShooter/Assets/_Project/Settings/Editor/StaticEcsViewConfig.asset
+src/StaticTopDownShooter/Assets/_Project/Settings/Editor/StaticEcsViewConfig.asset.meta
+
+# OBS: a pasta build/ (executável) NÃO é ignorada — o professor exige ela no repositório.
